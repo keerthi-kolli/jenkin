@@ -1,0 +1,12 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	symlinks = false	ignorecase = true
+[user]
+name=keerthi
+email=keerthimadhukolli@gmail.com
+[user]me = YOUR-NAME
+email = YOUR-[
+EMAIL-ADDRESS
